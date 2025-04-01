@@ -1,0 +1,1 @@
+function i(s,t=4){const n=`${s}`;if(!/^-?[0-9]+(\.[0-9]+)?$/.test(n))return n;const e=n.indexOf(".");if(e===-1)return`${n}.${"".padEnd(t,"0")}`;const r=n.slice(e+1);return r.length>t?n.slice(0,e+1+t):r.length<t?`${n.slice(0,e)}.${r.padEnd(t,"0")}`:n}export{i as t};
