@@ -1,0 +1,1 @@
+import{r as a,j as t,w as o,B as c}from"../index-BwZE-zWi.js";const i=({text:s,onClose:e})=>{const[r,l]=a.useState(!1);return a.useEffect(()=>{l(!!s)},[s]),t.jsxs(o,{closeBtn:!0,title:"",open:r,onClose:e,children:[t.jsx("div",{className:"text-white",children:s}),t.jsx(c,{type:"secondary",text:"Ok",className:"mt-8 w-full",onClick:e})]})};export{i as default};
