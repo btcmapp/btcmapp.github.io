@@ -1,0 +1,1 @@
+import{C as a}from"./CardFactory-B5Mnixjl.js";import{u as n}from"./nft-7oStJogB.js";function o(){const{data:e,refetch:r}=n({...a,functionName:"increase"});return{increase:e??0n,refetch:r}}export{o as u};
