@@ -1,0 +1,1 @@
+import{r as t,j as e}from"../index-DqkWCS5j.js";const s=()=>e.jsx("div",{className:"absolute top-0 left-0 h-full w-full min-w-[1440px] animate-pulse bg-[url(~/assets/home/dot_pattern.png)] bg-repeat"}),o=t.memo(s);export{o as default};
