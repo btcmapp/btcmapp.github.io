@@ -1,1 +1,0 @@
-import{r as t,y as a,z as c}from"../index-D251OfBP.js";function l(){const e=t.useContext(a),s=t.useContext(c),o=t.useCallback(()=>s("open"),[]),n=t.useCallback(()=>s("close"),[]);return{status:e,open:o,close:n}}export{l as u};
